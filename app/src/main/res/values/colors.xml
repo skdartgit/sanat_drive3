@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ivory">#FAF8F3</color>
+    <color name="navy">#17233C</color>
+    <color name="navy_deep">#101A2E</color>
+    <color name="gold">#B9954B</color>
+    <color name="gold_light">#E5D09A</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#202638</color>
+    <color name="text_secondary">#697184</color>
+    <color name="border">#E3DED2</color>
+    <color name="success">#287A58</color>
+    <color name="danger">#A94442</color>
+</resources>

@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+color border
+color danger
+color gold
+color gold_light
+color ivory
+color navy
+color navy_deep
+color success
+color surface
+color text_primary
+color text_secondary
+drawable ic_drive
+style AppTheme
